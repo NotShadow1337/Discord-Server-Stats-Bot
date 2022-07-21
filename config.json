@@ -1,0 +1,11 @@
+{
+    "token":"",
+    "guild_id":"",
+    "channel_id":"",
+    "channel_name": "Members :",
+    "delay": "30",
+    "emojis":{
+        "success":":white_check_mark:",
+        "failure":":x:"
+    }
+}

@@ -1,0 +1,2 @@
+pycord
+asyncio
